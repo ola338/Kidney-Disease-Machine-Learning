@@ -23,3 +23,6 @@ The project aims to classify kidney disease risk and perform principal component
 1. Download data from Kaggle [Dataset](https://www.kaggle.com/abhia1999/chronic-kidney-disease?select=new_model.csv)
 2. Clone the repository.
 3. Use Google Colab or Jupyter Notebooks to run `kidney_disease_classification.ipynb` and `kidney_disease_PCA.ipynb`
+
+## Sources
+[Chronic Kidney Disease Dataset](https://www.kaggle.com/abhia1999/chronic-kidney-disease?select=new_model.csv)
